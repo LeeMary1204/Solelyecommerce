@@ -1,0 +1,2 @@
+需要创建cloudinary账号，然后进行链接
+需要开mongodb的服务
